@@ -1,11 +1,11 @@
-## DESAFIO 03 - Corrigindo o código
+## CHALLENGE 03 - Correcting the code
 
-### Rotas da aplicação
+### Application Routes
 - [X] GET /repositories
 - [X] POST /repositories
 - [X] PUT /repositories/:id
 - [X] DELETE /repositories/:id
 - [X] POST /repositories/:id/like
 
-### Testes 
+### Tests
 - [X] All passed
